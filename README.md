@@ -9,9 +9,9 @@ Sample SMS App for Android.
 - Supports Android 4.0.3 & above
 
 ## Screenshots
-![Alt SMS Home Screen](https://lh6.googleusercontent.com/Z_pIXtBW4SFT9OyfBMhJw-qh6Cq1_pKRMWTkrjVvMEqAGaytlTnqhsgf8hLw301N_5BVVvAw=w900-h432 "Home Screen")
-![Alt SMS Conversation](https://lh6.googleusercontent.com/6XoD8Oz8t0l-hbcH5br7l8sy4XmjPCUDUPpBmPjVpMURDYItelEEfNUQi-9PDUooc1tqZxVQ=w900-h432 "SMS Conversation")
-![Alt SMS Conversation](https://lh5.googleusercontent.com/QVgQhj1XCps2nQwGCdwSSMGR6_2MjMZAz2BF9yjd1o3uf2QmLAfBcG7TxYp0Heer76QQP6kR=w900-h432 "SMS Conversation")
+<img src="https://s9.postimg.org/qig8wv90f/SMSApp_Home_Screen.png" height="500">
+<img src="https://s3.postimg.org/9x3d5fwtv/SMSApp_Conversatation.png" height="500">
+<img src="https://s15.postimg.org/6zprjriwb/SMSApp_Conversatation2.png" height="500">
 
 ## API Level
 - Minimum API 15
